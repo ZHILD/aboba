@@ -15,6 +15,15 @@ border: 10px solid yellow;
 border-radius: 5px;
 }
 
+.par-3
+{
+font-size: 24px;
+font-style: italic;
+text-align: center;
+text-shadow: green 2px 3px 4px
+}
+
+
 div
 {
 font-family: Arial;
